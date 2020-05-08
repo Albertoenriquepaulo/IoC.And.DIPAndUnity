@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ximhPJ0BLC5P0qeMf+rqUWOzF8SQBjr80bOtDXS5kZHQmS7zTM1BH7RhTrxu8zx6DYeasV2XPzGHRMwLJSx2IA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\.NetCore\\IoC.And.DIP\\IoC.DI.w.Unity\\IoC.DI.w.Unity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alberto\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Alberto\\.nuget\\packages\\unity\\5.11.6\\unity.5.11.6.nupkg.sha512"
+  ],
+  "logs": []
+}

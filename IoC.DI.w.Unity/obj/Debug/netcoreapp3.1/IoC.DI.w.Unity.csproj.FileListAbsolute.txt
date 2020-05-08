@@ -1,0 +1,16 @@
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\bin\Debug\netcoreapp3.1\IoC.DI.w.Unity.exe
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\obj\Debug\netcoreapp3.1\IoC.DI.w.Unity.AssemblyInfoInputs.cache
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\obj\Debug\netcoreapp3.1\IoC.DI.w.Unity.AssemblyInfo.cs
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\bin\Debug\netcoreapp3.1\IoC.DI.w.Unity.deps.json
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\bin\Debug\netcoreapp3.1\IoC.DI.w.Unity.runtimeconfig.json
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\bin\Debug\netcoreapp3.1\IoC.DI.w.Unity.runtimeconfig.dev.json
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\bin\Debug\netcoreapp3.1\IoC.DI.w.Unity.dll
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\bin\Debug\netcoreapp3.1\IoC.DI.w.Unity.pdb
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\bin\Debug\netcoreapp3.1\Unity.Container.dll
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\obj\Debug\netcoreapp3.1\IoC.DI.w.Unity.csprojAssemblyReference.cache
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\obj\Debug\netcoreapp3.1\IoC.DI.w.Unity.csproj.CoreCompileInputs.cache
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\obj\Debug\netcoreapp3.1\IoC.DI.w.Unity.csproj.CopyComplete
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\obj\Debug\netcoreapp3.1\IoC.DI.w.Unity.dll
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\obj\Debug\netcoreapp3.1\IoC.DI.w.Unity.pdb
+D:\Projects\.NetCore\IoC.And.DIP\IoC.DI.w.Unity\obj\Debug\netcoreapp3.1\IoC.DI.w.Unity.genruntimeconfig.cache
